@@ -1,0 +1,5 @@
+ul=input()
+u2=input()
+print(u1)
+print(":")
+print(u2)
